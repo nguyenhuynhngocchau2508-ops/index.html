@@ -1,4 +1,3 @@
-<html lang="vi">
 <head>
     <meta charset="UTF-8">
     <title>Lời giải Tin học 12 – Trang 105</title>
